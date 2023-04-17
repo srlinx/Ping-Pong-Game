@@ -1,5 +1,5 @@
 
-# Python Ping Pong Game #
+# Ping Pong Game #
 
 This is a classic ping pong game created using the Python programming language and the Turtle library. The objective of the game is to bounce the ball back and forth between the two paddles without letting it hit the edges of the screen.
 
