@@ -5,11 +5,11 @@ This is a classic ping pong game created using the Python programming language a
 
 ## How to Play ##
 Run the ping_pong.py file in your Python environment.
-Use the 'W' and 'S' keys for left paddle and 'Up' and 'Down' for right paddle to move the left paddle up and down respectively.
+Use the 'W' and 'S' keys for left paddle and
 Use the up and down arrow keys to move the right paddle up and down respectively.
 The game starts as soon as you run the file and the ball will automatically start moving towards a random direction.
 If the ball hits the left or right edge of the screen, the game is over and the player who missed the ball loses the game.
-The first player to score 5 points wins the game.
+Scoreboard gives point to opposite player if current player misses the ball and vise versa.
 
 ## Dependencies ##
 `Python 3.x`,
